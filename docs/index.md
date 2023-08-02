@@ -5,21 +5,18 @@ layout: home
 hero:
   name: "MD Notes"
   text: "A note taking apps"
-  tagline: My great project tagline
+  tagline: Privacy focus note taking app
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /connections
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Folder
+    details: Store all notes inside of a folder.
+  - title: Tagging
+    details: If you need multiple notes of multiple folders in a single place then tag will help you.
+  - title: Fulltext Search
+    details: All notes are stored inside of SQL based database, So notes can be searched by fulltext syntax
 ---
 

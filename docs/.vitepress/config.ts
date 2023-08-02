@@ -6,23 +6,17 @@ export default defineConfig({
   description: "A note taking apps",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Features',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Connections', link: '/connections' },
+          { text: 'Notes', link: '/notes/' },
+          { text: 'Tags', link: '/tags/' },
+          { text: 'Export/Import', link: '/export-import' }
         ]
       }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
   }
 })
