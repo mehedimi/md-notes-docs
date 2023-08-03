@@ -14,7 +14,8 @@ export default defineConfig({
           { text: 'Connections', link: '/connections' },
           { text: 'Notes', link: '/notes/' },
           { text: 'Tags', link: '/tags/' },
-          { text: 'Export/Import', link: '/export-import' }
+          { text: 'Export/Import', link: '/export-import' },
+          { text: 'Dark Mode', link: '/dark-mode' }
         ]
       }
     ],

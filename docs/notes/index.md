@@ -37,3 +37,16 @@ Can be draw diagram using mermaid syntax [Learn More](https://mermaid.js.org/int
 ## Syntax highlighting
 Syntax highlighting is working seamlessly
 ![](./../screenshots/syntax-highlighting.png)
+## Search (Spotlight)
+Pressing `Ctrl+P` or `Ctrl+K` will be activated spotlight search. You can search by note's title or content using full text search syntax
+Check out those following links
+- MySQL Fulltext search [Doc Link](https://www.mysqltutorial.org/mysql-full-text-search.aspx)
+- Sqlite Fulltext search [Doc Link](https://www.sqlitetutorial.net/sqlite-full-text-search/)
+  
+![](./../screenshots/search-1.png)
+
+![](./../screenshots/search-2.png)
+
+## Recent Activity
+Recent activity will give you lists of notes which were edited recently.
+![](./../screenshots/recent-activity.png)

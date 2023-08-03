@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "MD Notes"
   text: "A note taking apps"
-  tagline: Privacy focus note taking app
+  tagline: Privacy focused note taking app
   actions:
     - theme: brand
       text: Get Started
